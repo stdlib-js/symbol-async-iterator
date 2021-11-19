@@ -20,7 +20,7 @@ limitations under the License.
 
 # Async Iterator Symbol
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Async iterator [symbol][mdn-symbol] which specifies the default async iterator for an object.
 
@@ -115,8 +115,8 @@ if ( AsyncIteratorSymbol === null ) {
 
 ## See Also
 
--   [`@stdlib/symbol/ctor`][@stdlib/symbol/ctor]: symbols.
--   [`@stdlib/symbol/iterator`][@stdlib/symbol/iterator]: symbol iterator.
+-   <span class="package-name">[`@stdlib/symbol/ctor`][@stdlib/symbol/ctor]</span><span class="delimiter">: </span><span class="description">symbols.</span>
+-   <span class="package-name">[`@stdlib/symbol/iterator`][@stdlib/symbol/iterator]</span><span class="delimiter">: </span><span class="description">symbol iterator.</span>
 
 </section>
 
@@ -167,8 +167,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/symbol-async-iterator/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/symbol-async-iterator?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/symbol-async-iterator.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/symbol-async-iterator/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
