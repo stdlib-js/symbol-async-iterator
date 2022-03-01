@@ -167,8 +167,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/symbol-async-iterator.svg
 [npm-url]: https://npmjs.org/package/@stdlib/symbol-async-iterator
 
-[test-image]: https://github.com/stdlib-js/symbol-async-iterator/actions/workflows/test.yml/badge.svg
-[test-url]: https://github.com/stdlib-js/symbol-async-iterator/actions/workflows/test.yml
+[test-image]: https://github.com/stdlib-js/symbol-async-iterator/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/symbol-async-iterator/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/symbol-async-iterator/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/symbol-async-iterator?branch=main
