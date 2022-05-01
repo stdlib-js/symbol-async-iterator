@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/symbol-async-iterator",
-  "version": "0.0.0",
+  "version": "0.0.8",
   "description": "Async iterator symbol.",
   "license": "Apache-2.0",
   "author": {
