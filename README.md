@@ -123,8 +123,8 @@ if ( AsyncIteratorSymbol === null ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/symbol/ctor`][@stdlib/symbol/ctor]</span><span class="delimiter">: </span><span class="description">symbols.</span>
--   <span class="package-name">[`@stdlib/symbol/iterator`][@stdlib/symbol/iterator]</span><span class="delimiter">: </span><span class="description">symbol iterator.</span>
+-   <span class="package-name">[`@stdlib/symbol-ctor`][@stdlib/symbol/ctor]</span><span class="delimiter">: </span><span class="description">symbols.</span>
+-   <span class="package-name">[`@stdlib/symbol-iterator`][@stdlib/symbol/iterator]</span><span class="delimiter">: </span><span class="description">symbol iterator.</span>
 
 </section>
 
