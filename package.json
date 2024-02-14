@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/symbol-async-iterator",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Async iterator symbol.",
   "license": "Apache-2.0",
   "author": {
@@ -35,7 +35,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-has-async-iterator-symbol-support": "^0.1.1"
+    "@stdlib/assert-has-async-iterator-symbol-support": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-symbol": "^0.1.1",
