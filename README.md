@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import AsyncIteratorSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-async-iterator@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/symbol-async-iterator/tags). For example,
+
+```javascript
 import AsyncIteratorSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-async-iterator@v0.2.0-deno/mod.js';
 ```
 
@@ -89,7 +94,7 @@ var s = typeof AsyncIteratorSymbol;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import AsyncIteratorSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-async-iterator@v0.2.0-deno/mod.js';
+import AsyncIteratorSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-async-iterator@deno/mod.js';
 
 if ( AsyncIteratorSymbol === null ) {
     console.log( 'Environment does not support Symbol.asyncIterator.' );
