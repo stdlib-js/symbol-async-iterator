@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import AsyncIteratorSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-async-iterator@deno/mod.js';
+import AsyncIteratorSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-async-iterator@v0.2.1-deno/mod.js';
 ```
 
 #### AsyncIteratorSymbol
@@ -89,7 +89,7 @@ var s = typeof AsyncIteratorSymbol;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import AsyncIteratorSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-async-iterator@deno/mod.js';
+import AsyncIteratorSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-async-iterator@v0.2.1-deno/mod.js';
 
 if ( AsyncIteratorSymbol === null ) {
     console.log( 'Environment does not support Symbol.asyncIterator.' );
