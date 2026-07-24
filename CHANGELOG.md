@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-07)
+## Unreleased (2026-07-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1e30505`](https://github.com/stdlib-js/stdlib/commit/1e3050522c1c0e4c6c5d97ce31aba3a2088cf186) - **chore:** resolve lint errors _(by Athan Reines)_
 -   [`c7e4f4e`](https://github.com/stdlib-js/stdlib/commit/c7e4f4e3757f6f0082297f31dd0094ef02f58df8) - **chore:** resolve n/no-unsupported-features lint error in `symbol/async-iterator` [(#11927)](https://github.com/stdlib-js/stdlib/pull/11927) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
